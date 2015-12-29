@@ -1,2 +1,2 @@
-# enterpricephp.github.io
-website of EnterpricePHP
+# enterprisephp.github.io
+website of EnterprisePHP
